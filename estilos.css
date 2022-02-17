@@ -1,0 +1,10 @@
+#artiuno, #artidos{
+    margin-top:45px;
+    margin-bottom: 45px;
+}
+
+#cabecera {
+    background-image:url(histograma.png); 
+    background-position:center; 
+    background-repeat: no-repeat;
+}
